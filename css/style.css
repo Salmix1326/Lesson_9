@@ -80,17 +80,18 @@ body {
 
 
 .start-button {
+   font-family: "Rubik Mono One ", Arial, Helvetica, sans-serif;
    width: 400px;
    height: 50px;
    background-color: black;
    text-align: center;
-   padding: 20px;
+   padding: 13px;
    border-radius: 10px;
    border: 1px solid white;
    color: white;
    display: inline-block;
    margin-bottom: 30px;
-   font-size: 11px;
+   font-size: 23px;
 }
 
 .game__line {
